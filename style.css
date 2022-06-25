@@ -1,54 +1,65 @@
-html,body{
+html,
+body {
     overflow-x: hidden;
 }
+
 /* section-1 */
-.section-1{
+.section-1 {
     background-color: rgb(80, 80, 172);
     height: 625px;
 }
-h1{
+
+h1 {
     position: relative;
     top: -100px;
     text-align: center;
     font-family: 'Baloo Bhai 2', cursive;
 }
-.heads{
+
+.heads {
     background-color: white;
     margin-top: 60px;
 }
-#tail{
+
+#tail {
     position: relative;
     left: 100px;
     top: -50px;
 }
-.plyer label{
+
+.plyer label {
     position: relative;
     top: -90px;
     left: 70px;
     font-family: 'Baloo Bhai 2', cursive;
 }
-.plyer input{
+
+.plyer input {
     position: relative;
     top: -90px;
     left: 70px;
 }
-.name label{
+
+.name label {
     position: relative;
     top: -145px;
     left: 310px;
     font-family: 'Baloo Bhai 2', cursive;
 }
-.name input{
+
+.name input {
     position: relative;
     top: -145px;
     left: 310px;
 }
-.butt button{
+
+.butt button {
     position: relative;
     left: 180px;
     top: -120px;
     width: 100px;
 }
-.butt button:hover{
+
+.butt button:hover {
     background-color: black;
 }
